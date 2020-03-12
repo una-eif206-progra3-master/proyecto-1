@@ -1,4 +1,4 @@
-# Proyecto 1
+# Proyecto 1 - Control de Citas Médicas
 
 | CODIGO: EIF206           | ESCUELA DE INFORMÁTICA       |
 | ------------------------ | ---------------------------- |
