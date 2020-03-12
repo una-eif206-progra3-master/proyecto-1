@@ -79,9 +79,10 @@ El doctor no conoce mucho de tecnologías, pero si quiere que la aplicación sea
 
 ## Reglas
 
-1. Subir al GitHub del proyecto todos los archivos necesarios para ejecutar las pruebas funcionales.
-2. Se permite hacer el proyecto en parejas
-3. Si se encuentra plagio o copias entre grupos se anula la tarea de acuerdo al reglamento de la universidad.
-4. El profesor únicamente revisa lo que esta en el repositório hasta la fecha de entrega. Cualquier entrega posterior a la fecha acordada se evalua de la siguiente forma.
+1. Buscar una pareja y definir un nombre al grupo, en minúscula ejemplo: (alpha, beta, charlie, echo, etc)
+2. Subir al GitHub del proyecto todos los archivos necesarios para ejecutar las pruebas funcionales.
+3. Se permite hacer el proyecto en parejas
+4. Si se encuentra plagio o copias entre grupos se anula la tarea de acuerdo al reglamento de la universidad.
+5. El profesor únicamente revisa lo que esta en el repositório hasta la fecha de entrega. Cualquier entrega posterior a la fecha acordada se evalua de la siguiente forma.
    - 1 día de atraso. Evaluación sobre 80% de la nota.
    - Mayor a 1 día de atraso. Evaluación sobre 70% de la nota.
